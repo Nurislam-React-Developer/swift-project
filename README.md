@@ -1,7 +1,7 @@
 # 🧪 Tilt Lab – Жидкие шарики (SwiftUI Project)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/swift-logo.png" width="120" alt="Swift Logo"/>
+  <img src="https://miro.medium.com/1*OgeU8HPo8TFF1cZQ-4XjJw.jpeg" width="120" alt="Swift Logo"/>
 </p>
 
 ---
